@@ -6,8 +6,7 @@
 - 🎶 Love metal, lofi, jazz, and soft music
 
 ## 📊 GitHub Stats
-![Rajadurai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajadurai2&show_icons=true&theme=radical)
-
+![Rajadurai's GitHub Stats]()
 ## 🔧 Tools & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -17,4 +16,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
 sathishkumar-n-56718a285
 )
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajadurai2)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
